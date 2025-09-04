@@ -1,12 +1,12 @@
-[submodule "External/SDL"]
-	path = External/SDL
-	url = https://github.com/KoS-Y1/SDL.git
-[submodule "External/glslang"]
-	path = External/glslang
-	url = https://github.com/KoS-Y1/glslang.git
-[submodule "External/glm"]
-	path = External/glm
-	url = https://github.com/KoS-Y1/glm.git
 [submodule "External/simdjson"]
 	path = External/simdjson
 	url = https://github.com/simdjson/simdjson.git
+[submodule "External/SDL"]
+	path = External/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "External/glm"]
+	path = External/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "External/glslang"]
+	path = External/glslang
+	url = https://github.com/KhronosGroup/glslang.git
